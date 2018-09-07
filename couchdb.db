@@ -1,0 +1,8 @@
+# Already used types are defined in the types.db file within this directory
+
+
+
+couch_counter	value:COUNTER:0:U
+couch_gauge		value:GAUGE:0:U
+couch_derive	value:DERIVE:0:U
+couch_absolute	value:ABSOLUTE:0:U
